@@ -1,6 +1,6 @@
 # Wealthifyre - AI Powered Personal Finance Mobile App
 
-# A comprehensive personal finance application that combines intuitive design with powerful AI-driven insights to help you take control of your financial life.
+A comprehensive personal finance application that combines intuitive design with powerful AI-driven insights to help you take control of your financial life.
 
 https://github.com/user-attachments/assets/7dacc228-89a4-470a-8ecf-fd633f926cbb
 
